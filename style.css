@@ -1,0 +1,44 @@
+body {
+    font-family: 'Karla', sans-serif;
+    background: #f2a365;
+}
+
+
+
+h1 {
+    font-weight: 700;
+    font-size: 5rem;
+    text-align: center;
+    margin: 1em 0 0.5em 0;
+    color: #30475e;
+}
+
+.btn {
+    background-color: #f2a365;
+    border: 1px solid #30475e;
+    color: #30475e;
+}
+
+button:hover {
+    background-color: #f2a365;
+    color: #30475e;
+}
+
+.dice p {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 1em;
+    color: #30475e;
+}
+
+#img1 {
+    width: 70%;
+    height: 70%;
+    margin-left: 5em;
+}
+
+#img2 {
+    width: 70%;
+    height: 70%;
+    margin-left: 5em;
+}
